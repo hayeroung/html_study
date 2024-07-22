@@ -1,0 +1,14 @@
+h3 {
+    color: cornflowerblue;
+}
+body {
+    text-align: center;
+    background-color: lightcyan;
+}
+li {
+    font-size: 16px;
+}   
+.food:hover {
+    border: cornflowerblue 10px dotted;
+    border-radius: 500px;
+}
